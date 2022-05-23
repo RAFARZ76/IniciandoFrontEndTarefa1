@@ -1,4 +1,4 @@
-Realização do meu primeiro Projeto onde aprendi a trabalhar com a ferramenta HTML.
+⏹ Realização do meu primeiro Projeto onde aprendi a trabalhar com a ferramenta HTML.
 
 ⏹ Criação do site que é uma loja;
 
