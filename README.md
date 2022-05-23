@@ -1,4 +1,4 @@
-Realização de 2 Projetos utilizando ferramentas HTML e CSS.
+Realização de d 1 Projeeto utilizando a ferramenta HTML .
 
 ⏹ Projeto 01: Criação do site que é de uma loja, o código foi digitado
 com elementos e tags pra dar destaque tais quais negrito, itálico e borda, 
