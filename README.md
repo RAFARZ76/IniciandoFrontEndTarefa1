@@ -4,4 +4,8 @@
 
 ⏹ Os códigos foram digitados com elementos e tags para dar destaque tais quais negrito, itálico e borda e animações;
 
-⏹ Tem 1 link que vai da Tarefa 1(loja) pra Tarefa 2(tabela) no outro repositório.
+⏹ Tem 1 link que vai da Tarefa 1(loja) pra Tarefa 2(tabela) no outro projeto.
+
+💠 Link para o site😀👇
+
+#https://rafarz76.github.io/IniciandoFrontEndTarefa1/
